@@ -1,0 +1,6 @@
+{
+  "name": "Motor Godot 4.7.2 & Lupa de Cavalos",
+  "description": "Hub interativo do Godot 4.7.2 com o jogo Lupa de Cavalos (Horse Magnifier: The Full Horse), Editor Web Godot 4.7.2, changelog completo e IA com Thinking Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
